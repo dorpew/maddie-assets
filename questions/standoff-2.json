@@ -1,0 +1,97 @@
+{
+  "$schema": "../schemas/questions.schema.json",
+  "category": "standoff2",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "so2-001",
+      "question": "Qual o nome da moeda premium usada para comprar skins raras no mercado?",
+      "responses": ["gold", "ouro"],
+      "tip": "É a moeda dourada que você consegue comprando com dinheiro real ou vendendo itens."
+    },
+    {
+      "id": "so2-002",
+      "question": "Qual a desenvolvedora oficial do Standoff 2?",
+      "responses": ["axlebolt"],
+      "tip": "Uma empresa russa. Começa com 'A' e termina com 'Bolt'."
+    },
+    {
+      "id": "so2-003",
+      "question": "Qual o modo de jogo principal onde o objetivo é plantar ou desarmar a bomba?",
+      "responses": ["defuse", "desarme"],
+      "tip": "O modo competitivo clássico de FPS tático."
+    },
+    {
+      "id": "so2-004",
+      "question": "Qual o nome da faca curva que é uma das mais desejadas do jogo?",
+      "responses": ["karambit"],
+      "tip": "Inspirada em uma garra de tigre. Começa com 'K'."
+    },
+    {
+      "id": "so2-005",
+      "question": "O que você ganha ao final das partidas que serve para comprar caixas comuns?",
+      "responses": ["silver", "prata"],
+      "tip": "A moeda cinza que é dada gratuitamente conforme seu desempenho."
+    },
+    {
+      "id": "so2-006",
+      "question": "Qual o nome do mapa mais icônico que se passa em uma vila no deserto?",
+      "responses": ["sandstone"],
+      "tip": "Tradução literal seria 'Pedra de Areia'."
+    },
+    {
+      "id": "so2-007",
+      "question": "Como se chama a patente mais alta que um jogador pode alcançar no modo competitivo?",
+      "responses": ["the legend", "lenda"],
+      "tip": "Apenas os melhores do mundo chegam nesse nível. Em inglês significa 'A Lenda'."
+    },
+    {
+      "id": "so2-008",
+      "question": "Qual a arma de assalto equivalente à AK-47 usada pelos Terroristas no jogo?",
+      "responses": ["akr"],
+      "tip": "É a arma mais forte para headshots, mas tem muito recuo."
+    },
+    {
+      "id": "so2-009",
+      "question": "Qual o nome do item cosmético que você cola nas armas para personalizá-las?",
+      "responses": ["sticker", "adesivo"],
+      "tip": "Podem ser colados em até 4 lugares diferentes da arma."
+    },
+    {
+      "id": "so2-010",
+      "question": "Qual o nome do recurso onde jogadores compram e vendem skins entre si?",
+      "responses": ["market", "marketplace", "mercado"],
+      "tip": "O lugar onde a economia do jogo acontece. Taxa de 20% em cada venda."
+    },
+    {
+      "id": "so2-011",
+      "question": "Como se chama o rifle de precisão que mata com apenas um tiro no peito?",
+      "responses": ["awm"],
+      "tip": "A sniper mais famosa e poderosa do jogo."
+    },
+    {
+      "id": "so2-012",
+      "question": "Qual o nome do evento sazonal que oferece recompensas exclusivas por missões?",
+      "responses": ["battle pass", "passe de batalha"],
+      "tip": "Geralmente dura algumas semanas e tem versões gratuita e paga."
+    },
+    {
+      "id": "so2-013",
+      "question": "Qual a categoria de raridade dos itens vermelhos no jogo?",
+      "responses": ["arcane", "arcano"],
+      "tip": "A raridade mais alta para skins de armas e facas."
+    },
+    {
+      "id": "so2-014",
+      "question": "Qual o nome do pequeno acessório que fica pendurado na lateral da arma?",
+      "responses": ["charm", "chaveiro"],
+      "tip": "Introduzidos em atualizações mais recentes, são como pequenos bonecos ou objetos."
+    },
+    {
+      "id": "so2-015",
+      "question": "Qual o nome do mapa inspirado em uma vila japonesa com flores de cerejeira?",
+      "responses": ["sakura"],
+      "tip": "Nome de uma flor muito famosa no Japão."
+    }
+  ]
+}
